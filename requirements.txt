@@ -69,8 +69,8 @@ text-cleaner==0.2.6
 threadpoolctl==3.5.0
 tokenizers==0.19.1
 torch==2.3.1
-torchaudio==2.3.1+cpu
-torchvision==0.18.1+cpu
+torchaudio==2.3.1
+torchvision==0.18.1
 tornado==6.4.1
 tqdm==4.66.4
 traitlets==5.14.3
