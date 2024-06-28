@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+Lib
+Library
+pyvenv.cfg
+Scripts
+share
+
+lda/data
+lda/models
