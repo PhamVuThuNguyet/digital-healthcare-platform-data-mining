@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+=======
 *.dta filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+>>>>>>> f0e03e320af583546a0df95bfc2f748753de7ac9
