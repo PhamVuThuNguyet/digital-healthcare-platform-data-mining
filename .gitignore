@@ -9,3 +9,4 @@ lda/data
 lda/models
 
 llms/dataset_chip2023
+llms/lora_model/adapter_model.safetensors
